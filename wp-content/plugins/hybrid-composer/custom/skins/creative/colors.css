@@ -1,0 +1,81 @@
+/*
+===================
+SKIN: CREATIVE
+-------------------
+SKIN COLORS
+===================
+*/
+.mega-menu h5, .title-base h1, .title-icon h2, .title-icon h1, .title-base.title-small h2, .title-modern h1, .title-modern h2, .title-modern h3, .list-items .list-item h3,
+.timeline-title, footer h4, footer h5, footer h6, .advs-box h3, .advs-box h3, .advs-box h4, .advs-box .block-data p.bd-day, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h1 a, h2 a, h3 a,
+.advs-box.boxed-inverse .block-infos p.bd-day, .advs-box.boxed-inverse .block-infos p.bd-month, .adv-img-down-text h2 a, i.square, .advs-box-side .icon.circle, .advs-box-side .icon.square,
+ .ms-minimal .dropdown-toggle i.caret, .caption-bottom p, div.adv-img .caption-bottom p, .inner-circle .main, .mi-menu li .fa, .advs-box-top-icon.boxed .icon, .fullpage-arrow.arrow-circle .arrow i,
+ .title-icon-bg h2, .btn-group.social-group i, .accordion-list .list-group-item > a i, .advs-box .block-data p, .advs-box.boxed .block-data p, .main-color,
+ .mega-menu .fa-ul .fa-li, .fullpage-varrow.varrow-circle .arrow i, .adv-circle.adv-circle-center i, li.panel-item .fa-li,  .side-menu i, i.icon,
+ .side-menu ul a i, .list-blog h5, .bs-menu li:hover > a, .bs-menu li.active > a, .hamburger-button:hover, .img-box.adv-circle i, .adv-img-full-content i.main-icon, .advs-box-side .icon, .advs-box-side-icon i,
+ .tag-row i, .tag-row a i.circle, .social-group i.circle, .social-button i.circle, .niche-box-testimonails h5, .pricing-table .pricing-price, .pricing-table h3, .title-icon i, i,
+.fullpage-menu.white li.active a i, .list-items .list-item span, ul.list-texts li b, .timeline > li > .timeline-label h4, .footer-center .footer-title, header .social-group a i.fa, .icon-box-cell label {
+    color: #545454;
+}
+
+.datepicker-panel > ul > li.picked, .datepicker-panel > ul > li.picked:hover,
+h4 a, h5 a, .list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus, .form-box p, .icon-box-cell label, .advs-box.boxed-inverse, i.circle {
+    color: #272727;
+} 
+
+.full-width-menu .nav.inner > li > a, .full-width-menu .dropdown-menu > li > a, .advs-box-top-icon .icon, .advs-box-top-icon-img .icon, .footer-minimal, .footer-minimal p.footer-title, .footer-minimal .btn-group.social-group i {
+    color: #272727 !important;
+}
+
+    .full-width-menu .nav, .full-width-menu .nav.inner .dropdown-menu, .white .title-base hr, header .navbar-big,header .navbar-default .navbar-nav > .active > a, header .navbar-default .navbar-nav > li > a:hover,
+     header .btn-default, .navbar-mini .navbar-form .btn-default, .search-box, .search-box input, .dropdown-menu,
+    .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .white.btn, .white .btn, .circle-button,
+    .btn.circle-button, .header-bootstrap, .popup-banner .panel-body, .box-menu-inner > .row, .pagination > li > a, .pagination > li > span,
+    .pagination > .disabled > a, .header-title hr, .block-infos .block-comment, .nav.inner.ms-rounded > li > a, .btn-default, .advs-box.boxed,
+    .panel-default > .panel-heading, .panel-default .panel-footer, .advs-box-top-icon .icon, .advs-box-top-icon-img .icon, i.circle, .advs-box-multiple div.circle,
+    .advs-box-side-img hr, .call-action-box, .title-base hr, .white .title-base hr, .header-video.white .title-base hr, .header-slider.white .title-base hr,
+    .header-animation.white .title-base hr, .header-title.white .title-base hr, .nav.inner, .nav.inner.ms-mini, .popover-title,.input-group button,.btn,
+    .bg-color, .title-base .scroll-top, .title-modern .scroll-top, i.square, .header-base, .popup-banner.full-width-top, .popup-banner.full-width-bottom, .popup-banner.full-width-top, .progress-bar, .tagbox span {
+        background-color: #272727;
+    }
+
+       header .tab-box .nav-tabs li.active, .dropdown-menu .divider, .timeline > li > .timeline-badge, footer.footer-center, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus, .nav.inner, .full-width-menu, .navbar-main, .side-menu-fixed, .navbar-inner .navbar-toggle, .navbar-inner .navbar-toggle:hover, .full-width-menu .dropdown-menu, .full-width-menu .nav.inner > li:hover > a, .full-width-menu .nav.inner > li.active > a {
+            background-color: #272727 !important;
+        }
+
+       .dropdown-submenu > .dropdown-menu,header .navbar, .advs-box.boxed a.anima-button, .btn-primary:focus, .btn-primary.focus, .advs-box-multiple div.circle, .slimScrollBar, .white.circle-button:hover, .white .circle-button:hover, .boxed .circle-button:hover {
+            background-color: #1d1e1f !important;
+        }
+        .caption .btn, .caption .btn:hover,.pagination > .active > a,  header .btn-default:hover, header .circle-button:hover, .box-menu-inner > .row, .btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus, .btn-primary:focus, .btn-primary.focus, .btn-primary.btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default, .pagination > li > a:focus, .circle-button:hover, .btn.circle-button:hover, .pagination > .active > a:hover, .pagination > .disabled > a:hover, .pagination > li > a:hover, .btn-default:hover, .nav.inner:not(.ms-minimal) > li:hover > a, .nav.inner > li.active > a, .nav.inner:not(.ms-minimal) .dropdown-menu, .nav.inner.ms-rounded li.active a, .minisocial-group.circle i:hover, .pagination > .active > a {
+            background-color: #3E3E3E !important;
+            border-color: #3E3E3E !important;
+        }
+     .block-infos .block-data,.btn-default:hover,.side-menu-fixed .side-menu ul, .side-menu-fixed .panel, .side-menu-fixed .side-menu .active, header btn-default, header .navbar-form .input-group > .form-control,
+        header .input-group input, header .navbar-mini, .header-base:not(.bg-cover), .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .inner .navbar-nav li:hover, .dropdown.btn-group .active > a, .dropdown.btn-group li:hover > a, .dropdown.btn-group .active > label, .dropdown.btn-group li:hover > label, .subline-bar, .dropdown-menu > li > a:focus, .advs-box.boxed a.anima-button:hover, .menu-transparent:not(.scroll-css) li.dropdown:hover, .bg-transparent li.dropdown ul li:hover, header.bg-transparent .dropdown-menu {
+                background-color: #3E3E3E   !important;
+            }
+
+.bs-menu li:hover > a, .bs-menu li.active > a, .side-menu.ms-minimal li:hover > a, .side-menu.ms-minimal li:hover > span, .adv-circle.adv-circle-center-2 .caption p {
+    border-right-color: #272727 !important;
+}
+
+.bs-menu.menu-left li:hover > a, .bs-menu.menu-left li.active > a, .bs-callout {
+    border-left-color: #272727 !important;
+}
+
+.datepicker-top-left:before, .datepicker-top-right:before, .popover.bottom > .arrow:after, .title-modern h1, .title-modern h2, .title-modern h3, .nav.ms-minimal > li:hover > a, .nav.ms-minimal > li.active > a, .advs-box-top-icon-img .img-box, .advs-box-multiple .img-box, .advs-box-top-icon-img .flexslider .slides > li, .advs-box-multiple .flexslider {
+    border-bottom-color: #272727 !important;
+}
+
+.adv-img.boxed-inverse .caption-bottom, .datepicker-top-left, .datepicker-top-right {
+    border-top-color: #272727 !important;
+}
+
+.input-group-addon,header .navbar,i.square, .side-menu-lateral .side-menu > li:not(.panel-item) ul, .adv-img.boxed-inverse, i.circle, .boxed-inverse .block-data, .advs-box.boxed-inverse,
+.advs-box-top-icon .icon, .advs-box-top-icon-img .icon, .form-control, header .minisocial-group i, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .side-menu-fixed,
+.side-menu-fixed .panel, .side-menu.over li:hover > ul, .side-menu.over li.active > ul, .side-menu.over li:hover > ul.collapse, .advs-box.boxed a, .call-action-box .anima-button.circle-button,
+.boxed .social-group i.circle, .white.btn, .white .btn, .circle-button, .btn.circle-button, .advs-box.boxed, .box-menu-inner > .row, .pagination > .active > a:hover, .pagination > li.disabled > a:hover,
+ .pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > a, .pagination > li > span, .pagination > li.disabled > a, .nav.inner.ms-rounded li a, .btn-default,
+ .btn, .advs-box.boxed .advs-box-content, .bs-panel, .block-infos .block-data, .tag-row i.circle, .niche-box-team .content-box hr, .call-action-box,.inner .dropdown-menu,
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .social-group i.circle, .social-button i.circle {
+    border-color: #272727;
+}

@@ -1,0 +1,83 @@
+/*
+===================
+SKIN: ELEGANCE
+-------------------
+SKIN COLORS
+===================
+*/
+.icon-menu .navbar-collapse ul.nav > li:hover > a i, .icon-menu .navbar-collapse ul.nav > li.active > a i, .box-price h2, .text-color, .caption-bottom p,
+div.adv-img .caption-bottom p, .inner-circle .main, .mi-menu li .fa, .advs-box-top-icon.boxed .icon, .fullpage-arrow.arrow-circle .arrow i,
+.btn-group.social-group i, .accordion-list .list-group-item > a i, .adv-img h2, .main-color, .adv-img-classic-box h2,
+.mega-menu .fa-ul .fa-li, .fullpage-varrow.varrow-circle .arrow i, .adv-circle.adv-circle-center i, .mi-menu a > .fa, li.panel-item .fa-li, header .social-group a i,
+.icon-menu .navbar-collapse ul.nav i, .side-menu i, .side-menu i, .side-menu ul a i, .list-blog h5, .bs-menu li:hover > a, .bs-menu li.active > a, .hamburger-button:hover,
+.advs-box-side .icon, .advs-box-side-icon i, .tag-row i, .tag-row a i.circle, .social-group i.circle, .social-button i.circle, .niche-box-testimonails h5, .pricing-table .pricing-price,
+.pricing-table h3, .title-icon i, i, .fullpage-menu.white li.active a i, .list-items .list-item span, ul.list-texts li b, .timeline > li > .timeline-label h4, .footer-center .footer-title,
+.accordion-list .list-group-item > a.active, header .social-group a i.fa {
+    color: #8B6B43;
+}
+
+.adv-circle.adv-circle-half i, .adv-circle.adv-circle-bottom i, .datepicker-panel > ul > li.picked, .datepicker-panel > ul > li.picked:hover {
+    color: #8B6B43 !important;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .white.btn, .white .btn, .circle-button,
+.btn.circle-button, .header-bootstrap, .popup-banner .panel-body, .box-menu-inner > .row, .pagination > li > a, .pagination > li > span,
+.pagination > .disabled > a, .header-title hr, .nav.inner.ms-rounded > li > a, .btn-default, .advs-box.boxed, .section-slider .flexslider,
+.panel-default > .panel-heading, .panel-default .panel-footer, .advs-box-top-icon .icon, .advs-box-top-icon-img .icon, i.circle, .advs-box-multiple div.circle,
+.call-action-box, .title-base hr, .white .title-base hr, .header-video.white .title-base hr, .header-slider.white .title-base hr,
+.header-animation.white .title-base hr, .header-title.white .title-base hr, .nav.inner, .nav.inner.ms-mini, .popover-title, .niche-box-testimonails-cloud p,
+.bg-color, .title-base .scroll-top, .title-modern .scroll-top, i.square, .header-base, .popup-banner.full-width-top, .popup-banner.full-width-bottom, .progress-bar, .tagbox span {
+    background-color: #8B6B43;
+}
+
+    .btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus, .btn-primary:focus, .btn-primary.focus, .btn-primary.btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default, .pagination > li > a:focus, .circle-button:hover, .btn.circle-button:hover, .pagination > .active > a:hover, .pagination > .disabled > a:hover, .pagination > li > a:hover, .btn-default:hover, .nav.inner:not(.ms-minimal) > li:hover > a, .nav.inner > li.active > a, .nav.inner:not(.ms-minimal) .dropdown-menu, .nav.inner.ms-rounded li.active a, .minisocial-group.circle i:hover, .pagination > .active > a {
+        background-color: #7d603d;
+        border-color: #7d603d;
+    }
+
+.advs-box-top-icon .icon, .advs-box-top-icon-img .icon {
+    background-color: #8B6B43 !important; 
+}
+
+.btn-primary:focus, .btn-primary.focus, .advs-box-multiple div.circle, .slimScrollBar, .white.circle-button:hover, .white .circle-button:hover, .boxed .circle-button:hover {
+    background-color: #7d603d !important;
+}
+
+
+.tab-box.right .nav-tabs > li.active > a, .tab-box.right .nav-tabs > li.active > a:hover, .tab-box.right .nav-tabs > li.active > a:focus, .bs-menu li:hover > a, .bs-menu li.active > a, .side-menu.ms-minimal li:hover > a, .side-menu.ms-minimal li:hover > span {
+    border-right-color: #8B6B43 !important;
+}
+
+.tab-box.left .nav-tabs > li.active > a, .tab-box.left .nav-tabs > li.active > a:hover, .tab-box.left .nav-tabs > li.active > a:focus, .bs-menu.menu-left li:hover > a, .bs-menu.menu-left li.active > a, .bs-callout {
+    border-left-color: #8B6B43 !important;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .tab-box.inverse .nav-tabs li.active a,
+.nav-tabs.nav-justified > .active > a, .nav-tabs.nav-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:focus,
+ .datepicker-top-left:before, .datepicker-top-right:before, .title-modern h1, .title-modern h2, .title-modern h3, .nav.ms-minimal > li:hover > a, .nav.ms-minimal > li.active > a, .datepicker-top-left:before, .datepicker-top-right:before {
+    border-bottom-color: #8B6B43 !important;
+}
+
+ .datepicker-top-left, .datepicker-top-right {
+    border-top-color: #8B6B43 !important;
+}
+
+hr.e, .white.btn, .white .btn, .circle-button, .btn.circle-button, .advs-box.boxed, .box-menu-inner > .row, .pagination > .active > a:hover, .pagination > li.disabled > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > a, .pagination > li > span, .pagination > li.disabled > a, .nav.inner.ms-rounded li a, .btn-default, .btn, .advs-box.boxed .advs-box-content, .bs-panel, .tag-row i.circle, .niche-box-team .content-box hr, .call-action-box, .pagination > .active > a, .inner .dropdown-menu, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .social-group i.circle, .social-button i.circle, .accordion-list .list-group-item > a.active:hover {
+    border-color: #8B6B43;
+}
+
+.form-control:focus {
+    border-color: #D8C398;
+}
+
+.adv-circle.adv-circle-half i.fa-star, .secondary-color, .secondary-color p, p.secondary-color, .secondary-color i, .img-box.adv-circle i {
+    color: #D8C398 !important;
+}
+
+.white .title-base hr {
+    background-color: #D8C398;
+}
+
+.white hr.e, .adv-circle.adv-circle-center-2 .caption p {
+    border-color: #D8C398;
+}

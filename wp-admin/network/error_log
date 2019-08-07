@@ -1,0 +1,1 @@
+[14-Mar-2019 04:19:41 UTC] PHP Fatal error:  Can't use function return value in write context in /home/portanweb1/public_html/portanart.com/wp-content/plugins/wp-easy-mode/includes/functions.php on line 213

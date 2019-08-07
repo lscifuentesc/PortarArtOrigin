@@ -1,0 +1,22 @@
+.mega-menu h5, .title-base h1, .title-icon h2, .title-icon h1, .title-base.title-small h2, .title-modern h1, .title-modern h2, 
+.title-modern h3, .list-items .list-item h3, .timeline-title, footer h4, footer h5, footer h6, .advs-box h2, .advs-box h3, 
+.advs-box h4, .advs-box .block-data p.bd-day, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h1 a, h2 a, h3 a, 
+.advs-box.boxed-inverse .block-infos p.bd-day, .advs-box.boxed-inverse .block-infos p.bd-month, .adv-img-down-text h2 a,
+ i.square, .advs-box-side .icon.circle, .advs-box-side .icon.square, .ms-minimal .dropdown-toggle i.caret, 
+.inner-circle .main, .mi-menu li .fa, .advs-box-top-icon.boxed .icon, .fullpage-arrow.arrow-circle .arrow i,
+ .title-icon-bg h2, .btn-group.social-group i, .accordion-list .list-group-item > a i, .advs-box .block-data p, 
+.advs-box.boxed .block-data p, .adv-img h2, .main-color, .adv-img-classic-box h2, .mega-menu .fa-ul .fa-li,
+ .fullpage-varrow.varrow-circle .arrow i, .adv-circle.adv-circle-center i, li.panel-item .fa-li, header .social-group a i, .side-menu i,
+ .side-menu ul a i, .list-blog h5, .bs-menu li:hover > a, .bs-menu li.active > a, .hamburger-button:hover, .img-box.adv-circle i, .adv-img-full-content i.main-icon,
+ .advs-box-side .icon, .advs-box-side-icon i, .tag-row i, .tag-row a i.circle, .social-group i.circle, .social-button i.circle, .niche-box-testimonails h5, 
+.pricing-table .pricing-price, .pricing-table h3, .title-icon i, i, .fullpage-menu.white li.active a i, ul.list-texts li b, .timeline > li > .timeline-label h4,
+ .footer-center .footer-title, header .social-group a i.fa, .icon-box-cell label, footer .btn-group.social-group i, .advs-box-top-icon .icon, 
+.advs-box-top-icon-img .icon, .title-base p, .title-icon p, .list-items .list-item span, .social-group i ,.mi-menu ul li > a:before, .sidebar-nav .panel-item > span:before, .bs-menu li:hover > a, .bs-menu li.active > a, i.icon, .block-infos .bd-day {
+    color: #cecece;
+}
+.full-width-menu .nav.inner > li > a, .full-width-menu .dropdown-menu > li > a, .advs-box-top-icon-img .icon, .advs-box-top-icon.boxed .icon {
+    color: #cecece !important; 
+}
+.timeline > li > .timeline-badge {
+   border-color: #cecece;
+} 
